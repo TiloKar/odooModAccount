@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <record id="account_view_move_form_bbi" model="ir.ui.view">
+    <field name="name">account.view.move.form.bbi</field>
+    <field name="model">accout.move</field>
+    <field name="inherit_id" ref="account.view_move_form"/>
+    <field name="arch" type="xml">
+      <xpath expr="//field[@name='ref']" position="after">
+        <field name='external_origin'/>
+      </xpath>
+      <xpath expr="//field[@name='ref']" position="attributes">
+        <attribute name="string">interne Referenz</attribute>
+      </xpath>
+    </field>
+  </record>
+</odoo>
