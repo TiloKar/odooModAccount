@@ -1,0 +1,240 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* bbi_mod_account
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-18 13:36+0000\n"
+"PO-Revision-Date: 2022-07-18 13:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<b>Description: </b> <br/>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<b>Name: </b> <br/>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid ""
+"<br>Dear Sir or Madam,</br>\n"
+"            <br> </br>\n"
+"            <br>We thank for your order No.</br>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid ""
+"<br>Please pay the total sum within the payment term after invoice date to "
+"the account given below using the payment reference</br>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid ""
+"<span groups=\"account.group_show_line_subtotals_tax_excluded\">Amount</span>\n"
+"                        <span groups=\"account.group_show_line_subtotals_tax_included\">Total price</span>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<span> and would like to charge with our delivery on </span>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<span> from </span>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid ""
+"<span>.</span>\n"
+"            <br>Bank charges have to be paid by the customer.</br>\n"
+"            <br> </br>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<span>: </span>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<span><b>Payment terms: </b></span>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<span>Disc.%</span>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong class=\"mr16\">Subtotal</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Amount Due</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Contact</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Customer No.</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Customer VAT</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>E-Mail</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Invoice Date</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Invoice No.</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Invoicing Address:</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Invoicing and Shipping Address:</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Phone</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "<strong>Shipping Address:</strong>"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Article number"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Cancelled Invoice"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Credit Note"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Draft Invoice"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Intracommunity delivery"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Invoice"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model:ir.model,name:bbi_mod_account.model_account_move
+msgid "Journal Entry"
+msgstr "Buchungseintrag"
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Nr."
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Paid on"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Quantity"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model:ir.model.fields,help:bbi_mod_account.field_account_bank_statement_line__external_origin
+#: model:ir.model.fields,help:bbi_mod_account.field_account_move__external_origin
+#: model:ir.model.fields,help:bbi_mod_account.field_account_payment__external_origin
+msgid "Re-Nr des Lieferanten"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Tax ID"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Tax free export"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Taxes"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Unit price"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Vendor Bill"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
+msgid "Vendor Credit Note"
+msgstr ""
+
+#. module: bbi_mod_account
+#: model:ir.model.fields,field_description:bbi_mod_account.field_account_bank_statement_line__external_origin
+#: model:ir.model.fields,field_description:bbi_mod_account.field_account_move__external_origin
+#: model:ir.model.fields,field_description:bbi_mod_account.field_account_payment__external_origin
+msgid "externe Re-Nr."
+msgstr ""
+
+#. module: bbi_mod_account
+#: model_terms:ir.ui.view,arch_db:bbi_mod_account.account_view_move_form_bbi
+msgid "interne Referenz"
+msgstr ""
