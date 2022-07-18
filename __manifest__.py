@@ -17,5 +17,6 @@
     'views/account_view_move_form_bbi.xml',
     'report/bbi_report_invoice.xml',
     'report/minified_invoice_document.xml',
+    'report/change_paperformat.xml',
   ],
 }
