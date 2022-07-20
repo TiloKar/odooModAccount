@@ -18,7 +18,7 @@ msgstr ""
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<b>Description: </b> <br/>"
-msgstr ""
+msgstr "<b>Beschreibung: </b> <br/>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
@@ -31,31 +31,32 @@ msgid ""
 "<br>Dear Sir or Madam,</br>\n"
 "            <br> </br>\n"
 "            <br>We thank for your order No.</br>"
-msgstr ""
+msgstr "<br>Sehr geehrte Damen und Herren,</br><br></br><br>hiermit danken wir für Ihre Bestellung Nr. </br>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid ""
 "<br>Please pay the total sum within the payment term after invoice date to "
 "the account given below using the payment reference</br>"
-msgstr ""
+msgstr "<br>Bitte überweise Sie den Rechnungsbetrag ohne Abzug innerhalb der angegebenen Zahlungsfrist auf das unten angebene Konto mit der Zahlungsreferenz </br>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid ""
 "<span groups=\"account.group_show_line_subtotals_tax_excluded\">Amount</span>\n"
 "                        <span groups=\"account.group_show_line_subtotals_tax_included\">Total price</span>"
-msgstr ""
+msgstr "<span groups="account.group_show_line_subtotals_tax_excluded">Betrag</span>
+                                <span groups="account.group_show_line_subtotals_tax_included">Gesamtpreis</span>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<span> and would like to charge with our delivery on </span>"
-msgstr ""
+msgstr "<span> und berechnen mit unserer Lieferung am </span>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<span> from </span>"
-msgstr ""
+msgstr "<span> vom </span>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
@@ -63,7 +64,7 @@ msgid ""
 "<span>.</span>\n"
 "            <br>Bank charges have to be paid by the customer.</br>\n"
 "            <br> </br>"
-msgstr ""
+msgstr "<span>.</span><br>Bankgebühren müssen vom Kunden beglichen werden.</br> <br></br>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
@@ -73,37 +74,37 @@ msgstr ""
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<span><b>Payment terms: </b></span>"
-msgstr ""
+msgstr "<span><b>Zahlungsbedingungen:</b></span>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<span>Disc.%</span>"
-msgstr ""
+msgstr "<span>Rabatt %</span>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong class=\"mr16\">Subtotal</strong>"
-msgstr ""
+msgstr "<strong class="mr16">Zwischensumme</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Amount Due</strong>"
-msgstr ""
+msgstr "<strong>Fälliger Betrag</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Contact</strong>"
-msgstr ""
+msgstr "<strong>Kontakt</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Customer No.</strong>"
-msgstr ""
+msgstr "<strong>Kundennr.</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Customer VAT</strong>"
-msgstr ""
+msgstr "<strong>USt-Id des Kunden</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
@@ -113,62 +114,62 @@ msgstr ""
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Invoice Date</strong>"
-msgstr ""
+msgstr "<strong>Rechnungsdatum:</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Invoice No.</strong>"
-msgstr ""
+msgstr "<strong>Rechnungsnr.</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Invoicing Address:</strong>"
-msgstr ""
+msgstr "<strong>Rechnungsadresse</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Invoicing and Shipping Address:</strong>"
-msgstr ""
+msgstr "<strong>Rechnungs- und Lieferadresse:</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Phone</strong>"
-msgstr ""
+msgstr "<Strong>Telefon</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "<strong>Shipping Address:</strong>"
-msgstr ""
+msgstr "<strong>Lieferadresse</strong>"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Article number"
-msgstr ""
+msgstr "Artikelnummer"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Cancelled Invoice"
-msgstr ""
+msgstr "Stornierte Rechnung"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Credit Note"
-msgstr ""
+msgstr "Gutschrift"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Draft Invoice"
-msgstr ""
+msgstr "Rechnungsentwurf"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Intracommunity delivery"
-msgstr ""
+msgstr "Innergemeinschaftliche Lieferung"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Invoice"
-msgstr ""
+msgstr "Rechnung"
 
 #. module: bbi_mod_account
 #: model:ir.model,name:bbi_mod_account.model_account_move
@@ -183,12 +184,12 @@ msgstr ""
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Paid on"
-msgstr ""
+msgstr "Bezahlt am"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Quantity"
-msgstr ""
+msgstr "Menge"
 
 #. module: bbi_mod_account
 #: model:ir.model.fields,help:bbi_mod_account.field_account_bank_statement_line__external_origin
@@ -200,27 +201,27 @@ msgstr ""
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Tax ID"
-msgstr ""
+msgstr "USt-IdNr."
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Tax free export"
-msgstr ""
+msgstr "Steuerfreie Ausfuhrlieferung"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Taxes"
-msgstr ""
+msgstr "Steuern"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Unit price"
-msgstr ""
+msgstr "Stückpreis"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
 msgid "Vendor Bill"
-msgstr ""
+msgstr "Lieferantenrechnung"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.minified_invoice_document
@@ -232,7 +233,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:bbi_mod_account.field_account_move__external_origin
 #: model:ir.model.fields,field_description:bbi_mod_account.field_account_payment__external_origin
 msgid "externe Re-Nr."
-msgstr ""
+msgstr "Lieferanten-Gutschrift"
 
 #. module: bbi_mod_account
 #: model_terms:ir.ui.view,arch_db:bbi_mod_account.account_view_move_form_bbi
